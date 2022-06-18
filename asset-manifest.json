@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://jrr-osu.github.io/csb-j3wj73/static/css/main.f5d83acd.chunk.css",
+    "main.js": "https://jrr-osu.github.io/csb-j3wj73/static/js/main.abb93d01.chunk.js",
+    "main.js.map": "https://jrr-osu.github.io/csb-j3wj73/static/js/main.abb93d01.chunk.js.map",
+    "runtime-main.js": "https://jrr-osu.github.io/csb-j3wj73/static/js/runtime-main.20eb7a5f.js",
+    "runtime-main.js.map": "https://jrr-osu.github.io/csb-j3wj73/static/js/runtime-main.20eb7a5f.js.map",
+    "static/js/2.88cff178.chunk.js": "https://jrr-osu.github.io/csb-j3wj73/static/js/2.88cff178.chunk.js",
+    "static/js/2.88cff178.chunk.js.map": "https://jrr-osu.github.io/csb-j3wj73/static/js/2.88cff178.chunk.js.map",
+    "static/js/3.ec2ba886.chunk.js": "https://jrr-osu.github.io/csb-j3wj73/static/js/3.ec2ba886.chunk.js",
+    "static/js/3.ec2ba886.chunk.js.map": "https://jrr-osu.github.io/csb-j3wj73/static/js/3.ec2ba886.chunk.js.map",
+    "index.html": "https://jrr-osu.github.io/csb-j3wj73/index.html",
+    "static/css/main.f5d83acd.chunk.css.map": "https://jrr-osu.github.io/csb-j3wj73/static/css/main.f5d83acd.chunk.css.map",
+    "static/js/2.88cff178.chunk.js.LICENSE.txt": "https://jrr-osu.github.io/csb-j3wj73/static/js/2.88cff178.chunk.js.LICENSE.txt",
+    "static/media/icon-laptop.280f1892.svg": "https://jrr-osu.github.io/csb-j3wj73/static/media/icon-laptop.280f1892.svg",
+    "static/media/icon-twitter.1f8af10d.svg": "https://jrr-osu.github.io/csb-j3wj73/static/media/icon-twitter.1f8af10d.svg",
+    "static/media/icon-youtube.d6990689.svg": "https://jrr-osu.github.io/csb-j3wj73/static/media/icon-youtube.d6990689.svg",
+    "static/media/logo.e258c777.svg": "https://jrr-osu.github.io/csb-j3wj73/static/media/logo.e258c777.svg",
+    "static/media/swift-icon.5d9d92c4.svg": "https://jrr-osu.github.io/csb-j3wj73/static/media/swift-icon.5d9d92c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20eb7a5f.js",
+    "static/js/2.88cff178.chunk.js",
+    "static/css/main.f5d83acd.chunk.css",
+    "static/js/main.abb93d01.chunk.js"
+  ]
+}
